@@ -1,39 +1,33 @@
-# Ana Giedry · Nutrição
+# 🥗 Ana Giedry | Nutrição
 
-Landing page da nutricionista Ana Giedry — React + Vite.
+> Landing page profissional desenvolvida para serviços de atendimento nutricional individualizado, unindo ciência, rotina real e uma abordagem sem dietas restritivas ou culpa.
+> 
+---
 
-## Estrutura
+## 🚀 Sobre o Projeto
+Esta aplicação web foi criada com o objetivo de apresentar os serviços da nutricionista Ana Giedry de forma clara, acolhedora e atrativa. O site destaca uma proposta de valor focada em reeducação alimentar personalizada, contando com seções detalhadas sobre a metodologia de atendimento, formatos presenciais e online, além de canais diretos de contato e agendamento.
 
-```
-src/
-  assets/images/     fotos usadas no site
-  components/        peças reutilizáveis (cursor, marquee, reveal, etc.)
-  sections/          cada bloco da página (Hero, Sobre, Método, ...)
-  data/content.js     todo o texto/conteúdo editável (serviços, FAQ, depoimentos...)
-  constants/colors.js  paleta de cores
-  index.css           estilos globais e animações
-  App.jsx             monta as seções na ordem final
-  main.jsx            ponto de entrada
-```
+- **Deploy Online:** [Acessar Projeto na Vercel](https://anagiedry-port.vercel.app/)
 
-## Rodando localmente
+---
 
-```bash
-npm install
-npm run dev
-```
+## ✨ Funcionalidades
+- **Design Responsivo:** Adaptado com fluidez para diferentes tamanhos de tela (desktop, tablets e smartphones).
+- **Identidade Visual Acolhedora:** Paleta de cores em tons claros com destaques em vinho/terroso para transmitir profissionalismo e leveza.
+- **Seções Estruturadas:** 
+  - *Sobre* a profissional e sua filosofia de trabalho.
+  - *Método* de atendimento individualizado.
+  - *Serviços* e formatos oferecidos (Presencial e Online).
+  - *Contato / Agendamento* de consultas direto pela interface.
 
-## Build de produção
+---
 
-```bash
-npm run build
-npm run preview
-```
+## 🛠️ Tecnologias Utilizadas
+- **React** (com Framework moderno)
+- **CSS Modules / Tailwind CSS** (ou estilização componentizada)
+- **Vercel** (Hospedagem e CI/CD)
 
-## O que editar primeiro
+---
 
-- **Textos e conteúdo**: `src/data/content.js` (serviços, depoimentos, FAQ, links do menu).
-- **Fotos**: troque os arquivos em `src/assets/images/` (mantenha os mesmos nomes ou atualize os imports nas seções correspondentes).
-- **Cores**: `src/constants/colors.js`.
-- **Contato real (WhatsApp/Instagram)**: `src/sections/Footer.jsx` e `src/components/FullscreenMenu.jsx` — os links ainda estão como placeholder (`href="#"`).
-- **Depoimentos**: os 3 cards em `src/data/content.js` (`TESTIMONIALS`) são exemplo de layout — troque pelos reais.
+## 💡 Status do Projeto
+- **Status:** Concluído / Em melhorias contínuas.
