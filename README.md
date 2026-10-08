@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🥗 Ana Giedry — Nutrição e Bem-Estar
 
 Landing page profissional desenvolvida para serviços de atendimento nutricional individualizado, unindo ciência, rotina real e uma abordagem sem dietas restritivas ou culpa.
